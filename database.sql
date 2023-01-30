@@ -1,0 +1,1 @@
+CREATE TABLE `twin_towers`;
